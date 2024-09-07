@@ -1,6 +1,6 @@
-  ﻿# Mobile-App-Financial-Projections-Python-Script  
+  ﻿# mobile-app-financial-projections
 
-This script makes a Microsoft Excel format spreadsheet financial projection for mobile applications.
+This is a python script that makes a Microsoft Excel format spreadsheet financial projection for mobile applications.
 
 The script will calculate value at a certain amount of total users achieved and not over time. The headers are as follows:
 
